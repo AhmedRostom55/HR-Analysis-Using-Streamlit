@@ -1,9 +1,9 @@
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import plotly.express as px
 import streamlit as st
-numpy
-pandas
-matplotlib
-seaborn
-plotly
 import datetime as dt
 
 st.set_page_config(layout='wide', page_title='HR Analysis')
